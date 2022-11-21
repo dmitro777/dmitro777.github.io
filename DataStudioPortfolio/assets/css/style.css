@@ -84,6 +84,7 @@ h6 {
 
 #header-icons {
   margin-right: 20px;
+  margin-top: 20px;
 }
 
 #header .profile img {
@@ -242,11 +243,6 @@ h6 {
   width: 70%;
 }
 
-#mailbox {
-  height: 30%;
-  width: 30%;
-}
-
 #hero:before {
   content: "";
   background-image: linear-gradient(to left, #000f97, #59aefd);
@@ -283,7 +279,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #062147;
 }
 
 @media (min-width: 1024px) {
